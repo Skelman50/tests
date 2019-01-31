@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^10.12.20",
+    "gm": "^1.23.1",
+    "image-size": "^0.7.1",
+    "sharp": "^0.21.3",
+    "ts-node": "^8.0.2",
+    "tslib": "^1.9.3",
+    "typescript": "^3.2.4"
+  },
+  "devDependencies": {
+    "bigeval": "^3.1.0"
+  }
+}
